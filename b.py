@@ -1,1 +1,1 @@
-print "goodbye world"auwgiyweagiu
+print "goodbye world"
